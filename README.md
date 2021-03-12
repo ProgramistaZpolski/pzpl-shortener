@@ -12,3 +12,5 @@ Folders explaination:
 
 ![Demo](https://raw.githubusercontent.com/ProgramistaZpolski/pzpl-shortener/master/.github/Screenshot_2021-03-12%20pzpl%20Shortener.png)
 ![Demo](https://raw.githubusercontent.com/ProgramistaZpolski/pzpl-shortener/master/.github/Screenshot_2021-03-12%20pzpl%20Shortener(1).png)
+
+TODO: Add a click counter
