@@ -9,3 +9,6 @@ Folders explaination:
 | Operator  	| LAMP Stack Backend             	|
 | Flashback 	| ActionScript redirector        	|
 | Scene     	| HTML, CSS, JS, pzplUI Frontend 	|
+
+![Demo](https://raw.githubusercontent.com/ProgramistaZpolski/pzpl-shortener/master/.github/Screenshot_2021-03-12%20pzpl%20Shortener.png)
+![Demo](https://raw.githubusercontent.com/ProgramistaZpolski/pzpl-shortener/master/.github/Screenshot_2021-03-12%20pzpl%20Shortener(1).png)
